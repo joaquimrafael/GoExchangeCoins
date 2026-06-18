@@ -1,0 +1,26 @@
+# Compiled binaries
+/GoExchangeCoins
+/goexchangecoins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries and output
+*.test
+*.out
+coverage.out
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Dependency directory (rarely used with modules)
+/vendor/
+
+# Editor / OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp
